@@ -42,7 +42,6 @@ int main(){
 			
 		} else{
 			continue;
-			
 		}
 		for(i=0; i< TAMANHO ; i++){
 			for (j = 0; j < TAMANHO; j++){
