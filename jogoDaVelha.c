@@ -65,6 +65,8 @@ int main(){
 		}
 		printf("\n\n\n");
 
+		printf(" jogador 1 venceu");
+
 
 	}
 
