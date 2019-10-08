@@ -31,6 +31,7 @@ int main(){
 			
 		}
 	}
+	
 
 	while(teste<100){
 		
