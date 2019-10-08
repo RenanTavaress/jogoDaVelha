@@ -23,6 +23,7 @@ int main(){
 		jogador =0;
 	} else {
 		jogador = 1;
+		
 	}
 
 	for(i=0; i< TAMANHO ; i++){
