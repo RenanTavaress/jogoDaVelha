@@ -24,12 +24,11 @@ int main(){
 	} else {
 		jogador = 1;
 	}
-	
+
 
 	for(i=0; i< TAMANHO ; i++){
 		for (j = 0; j < TAMANHO; j++){
 			matriz[i][j] = 3;
-			
 		}
 	}
 	
