@@ -26,11 +26,13 @@ int main(){
 		
 	}
 
+
 	for(i=0; i< TAMANHO ; i++){
 		for (j = 0; j < TAMANHO; j++){
 			matriz[i][j] = 3;
 		}
 	}
+	
 
 	while(teste<100){
 		
